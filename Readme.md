@@ -1,1 +1,1 @@
-Olá esse projeto sistema com JavaScript que voce pode comprar pizzas.
+Olá, esse projeto e um sistema com JavaScript que você pode comprar pizzas.
